@@ -9,4 +9,5 @@ The names and descriptions are shown below:
 - `tree.py`: It contains tree related functionalities. Right now it includes `BinaryTreeNode` class for binary tree construction and two functions: `bt_from_list` (build binary tree from list) and `max_depth` (find the maximum depth of the tree using BFS, see more about [algorithms](https://github.com/xuzhou338/ds-tools/tree/master/algorithm_problems#max_depth))
 - `EDA.py`: Self-written useful functions for Exploratory Data Analysis (EDA).
 - `confusion_matrix.py`: Modified confusion-matrix-related function from sklearn and added support for thresholds.
+- `model_eval.py`: Functions to be used in model evaluations.
 
