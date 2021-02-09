@@ -11,3 +11,4 @@ The names and descriptions are shown below:
 - `confusion_matrix.py`: Modified confusion-matrix-related function from sklearn and added support for thresholds.
 - `model_eval.py`: Functions to be used in model evaluations.
 
+- `nav.bash`: Bash file that can navigate to different directories from anywhere.
