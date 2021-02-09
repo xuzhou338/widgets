@@ -12,3 +12,5 @@ The names and descriptions are shown below:
 - `model_eval.py`: Functions to be used in model evaluations.
 
 - `nav.bash`: Bash file that can navigate to different directories from anywhere.
+- `.bash_profile`: Setting file that contains my common alias, and also conda settings
+- `.zshrc`: Setting file that contains zsh settings and at the very end, has command to automatically run bash_profile from zsh.
