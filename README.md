@@ -1,6 +1,6 @@
-# My Widgets
+# My Code Snippet
 
-This repository contains widgets (code and examples of usage) that I write for practice, for fun, or to serve certain projects.
+This repository contains code snippets (code and examples of usage) that I write for practice, for fun, or to serve certain projects.
 
 The names and descriptions are shown below:
 
