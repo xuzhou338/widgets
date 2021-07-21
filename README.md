@@ -1,4 +1,4 @@
-# My Code Snippet
+# My Code Snippets
 
 This repository contains code snippets (code and examples of usage) that I write for practice, for fun, or to serve certain projects.
 
